@@ -12,8 +12,7 @@
         display:inline-block;
     }
 }
-@media only screen and(max-width:900px)
-{
+@media only screen and(max-width:900px){
     body{
         font-size:85%;
     }
@@ -33,16 +32,13 @@
         column-count: 2;
     }
 }
-@media only screen and(max-width:800px)
-{
+@media only screen and(max-width:800px){
 #navbar nav a{
     font-size:0.9em;
 }
-
 }
 
-@media only screen and(max-width:750px)
-{
+@media only screen and(max-width:750px){
     .col-1, .col-2,.col-3{
         width:100%;
         margin-left: 0;
