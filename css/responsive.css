@@ -66,6 +66,10 @@
   }
   #navbar nav a.menu-icon{
     display: block;
+    float:right;
+    font-size:1em;
+    padding:10px 20px;
+    
   }
 
     
