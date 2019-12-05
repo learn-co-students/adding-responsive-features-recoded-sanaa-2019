@@ -48,7 +48,8 @@
   }
   .border-right{
     border:0;
-#detailsdiv{
+  }
+#details div{
     height:auto;
     padding-bottom:20px;
     }
