@@ -48,9 +48,9 @@
   }
   .border-right{
     border:0;
-    #details div{
+  #details  div{
     height:auto;
-    padding-bottom
+    padding-bottom:;
     }
   }
 }
